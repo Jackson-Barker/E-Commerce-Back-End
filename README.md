@@ -12,15 +12,17 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 - [Github](#github)
+- [Video](#video)
 - [Email](#email)
-- [Screenshot](#screenshot)
-- [Contribute](#contribution)
 - [Tests](#tests)
 
 ## Installation
+
+This application requires both Node.js and MySQL.'
+
+After cloning the repository from github run "npm install" followed by "npm start".
 
 ## Usage
 
@@ -38,22 +40,22 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Credits
-
 ## License
 
 MIT
+
 ## Github
 
 <a href="https://github.com/Jackson-Barker">GitHub Profile Link</a> 
 
-## Email Address
+## Video 
+
+<a href="https://drive.google.com/file/d/19igsqIIFJZaMzsMauj310DvSK_kIX6_N/view?usp=sharing">Demo Video</a> 
+
+## Email
 
 <a href="mailto:barkerwjackson@gmail.com">Email</a>
 
-## Screenshot
-
-## How to Contribute
-
 ## Tests
+
 No test at this time.
